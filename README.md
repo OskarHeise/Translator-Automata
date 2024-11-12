@@ -2,13 +2,6 @@
 
 # Progetto di Laboratorio
 
-**Descrizione Finale – Febbraio 2024**
-**Progetto di Laboratorio 2023/24**
-**Traduttore Semplice**
-**Versione Finale**
-**Bini, Radicioni, Schifanella C.**
-**Febbraio 2024**
-
 ## Indice
 1. [Composizione del Gruppo Studenti](#1-composizione-del-gruppo-studenti)
 2. [Sottomissione](#2-sottomissione)
